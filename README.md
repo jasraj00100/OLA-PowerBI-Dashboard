@@ -2,7 +2,7 @@
 
 My first Power BI project, created while learning Power BI through a guided tutorial.
 
-This dashboard analyzes OLA ride-booking data, including bookings, revenue, vehicle performance, 
+This dashboard analyzes OLA ride-booking data, including bookings, revenue, vehicle performance,
 cancellations, payment methods, customer ratings, and driver ratings.
 
 ## Skills Practiced
@@ -18,5 +18,4 @@ cancellations, payment methods, customer ratings, and driver ratings.
 
 ## Note
 
-This is my first Power BI learning/recreation project. It was created while following a tutorial to
-build my fundamentals in Power BI and DAX.
+This is my first Power BI learning project. It was created to build my fundamentals in Power BI and DAX.
